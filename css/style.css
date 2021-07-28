@@ -1,5 +1,7 @@
 .hero-bg{
     background-image: url(/images/Header-image-updated.png);
+    background-size: cover;
+    background-position: center;
  }
  /*
 .footer-container{
